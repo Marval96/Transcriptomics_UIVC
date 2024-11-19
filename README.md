@@ -1,3 +1,3 @@
-# full_rnaseq
+# **Transcriptomics UIVC-HIMFG**
 
-Brief description of the library.
+Transcriptomic analysis (RNAseq bulk) of macrophages in the breast cancer tumour microenvironment (BrCa).
