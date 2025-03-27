@@ -8,6 +8,10 @@ El análisis multivariado de Cox identificó TRGS como un factor pronóstico ind
 
     [Integrated single-cell and bulk RNA-seq analysis identifies a prognostic T-cell signature in colorectal cancer](https://www.nature.com/articles/s41598-024-70422-6)
 
++ Este artículo revisa el uso de modelos bayesianos en la predicción del pronóstico del cáncer a partir de datos ómicos de alta dimensión. Se analizan métodos de selección de variables, integración multiómica y validación de modelos, destacando los desafíos en carga computacional y aplicabilidad clínica. Se enfatiza la necesidad de mejorar la interpretación biológica y explorar enfoques dinámicos para modelar la progresión tumoral en la medicina de precisión.
+
+    [The Application of Bayesian Methods in Cancer Prognosis and Prediction](https://pmc.ncbi.nlm.nih.gov/articles/PMC8717957/)
+
 **Literatura por revisar:**
 
 Aquí algunos artículos que podrían ser de utilidad pero que aún debo leer:
