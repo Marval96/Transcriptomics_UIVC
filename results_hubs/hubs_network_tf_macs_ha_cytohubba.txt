@@ -1,0 +1,2 @@
+📂 Cargando archivo: hubs_finder/example/network_tf_macs_ha_cytohubba.csv
+❌ Error: El archivo debe contener las columnas 'Gene' y 'Score'.
