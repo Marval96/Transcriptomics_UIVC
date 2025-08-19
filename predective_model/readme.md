@@ -8,7 +8,7 @@ Nuestras condicones experimentales corresponden a macrófagos entrenados por el 
 |--------------|-------------|
 | MCF7 | No agresivo |
 | T47D | No agresivo |
-| UIVC-1 | Mo agresivo |
+| UIVC-1 | ¿? |
 | UIVC-4 | Agresivo | 
 | MDA-MB-231 | Agresivo |
 
